@@ -1,0 +1,16 @@
+{
+    "require": {
+        "phalcon/devtools": "dev-master",
+        "phalcon/incubator": "dev-master",
+        "phalcon/migrations": "dev-master",
+        "phalcon/zephir": "dev-master",
+        "phalcon/cphalcon": "~4.0"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/phalcon/cphalcon.git",
+            "reference": "master"
+        }
+    ]
+}
